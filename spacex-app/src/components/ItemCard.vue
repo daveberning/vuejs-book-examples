@@ -16,7 +16,7 @@
 <script>
 export default {
   props: ['rocket'],
-}
+};
 </script>
 
 <style lang="scss" scoped>
@@ -25,7 +25,7 @@ export default {
     margin: 15px;
     padding: 15px;
     border-radius: 2px;
-    
+
     p {
       text-align: left;
     }
